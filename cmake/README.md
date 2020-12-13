@@ -2,6 +2,12 @@
 
 Everything is a target.
 
+### Learning material
+
+* [vector-of-bool](https://www.youtube.com/watch?v=_yFPO1ofyF0&list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) tutorials. 
+
+* [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
+
 ### Basic setup
 
 * check [cmake-buildsystem(7)](https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html#manual:cmake-buildsystem(7)) how to setup basic project
