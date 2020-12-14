@@ -4,6 +4,8 @@ Everything is a target.
 
 ### Learning material
 
+* C++Now 2017: Daniel Pfeifer “Effective CMake" https://youtu.be/bsXLMQ6WgIk
+
 * [vector-of-bool](https://www.youtube.com/watch?v=_yFPO1ofyF0&list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) tutorials. 
 
 * [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
