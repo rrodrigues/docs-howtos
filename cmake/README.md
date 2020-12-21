@@ -10,6 +10,8 @@ Everything is a target.
 
 * [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
 
+* [modern-cmake](https://cliutils.gitlab.io/modern-cmake)
+
 ### Basic setup
 
 * check [cmake-buildsystem(7)](https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html#manual:cmake-buildsystem(7)) how to setup basic project
