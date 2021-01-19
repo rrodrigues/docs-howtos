@@ -86,7 +86,7 @@ cmake --build <build folder> --config Release|Debug
 
 ##### install
 ```
-cmake --install <install dir>
+cmake --install <build dir> --prefix <install dir>
 ```    
 
 ##### iOS
