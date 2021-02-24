@@ -22,6 +22,7 @@ Everything is a target.
 ### Qt project setup
 
 * Qt moc, ui and rcc tools with [cmake-qt](https://cmake.org/cmake/help/latest/manual/cmake-qt.7.html)
+* distribute Qt apps without qtdeploy tools https://github.com/gitahead/gitahead/blob/master/pack/CMakeLists.txt
 
 ### Debug
 
